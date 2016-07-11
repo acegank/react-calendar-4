@@ -2,7 +2,7 @@
 
     npm install
 
-    npm statr
+    npm start
 
     open localhost:3000
 
